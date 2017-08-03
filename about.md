@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About olivePanda
+title: About OlivePanda
 description: This page describes monochrome.
 ---
 ## About
